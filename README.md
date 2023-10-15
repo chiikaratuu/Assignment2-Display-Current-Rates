@@ -1,6 +1,6 @@
 ![React Native Logo](https://reactnative.dev/docs/assets/favicon.png)
 # Assignment2-Display-Current-Rates
-This project made by Chika Ratu Mentari
+This project made by Chika Ratu Mentari RCTN-KS09-07
 ## Description Project
 - This project is about converting several world currency values ​​based on Dollar currency (USD)<br>
 - This project uses react dom and currencyfreaks API to display and retrieve currency conversion data<br>
