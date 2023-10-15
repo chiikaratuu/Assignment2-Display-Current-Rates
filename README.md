@@ -1,6 +1,5 @@
-![React Native Logo]()
 <div style="display: flex; align-items: center;">
-  <img src="[URL_TO_REACT_NATIVE_LOGO](https://reactnative.dev/docs/assets/favicon.png)" alt="React Native Logo" width="100" height="100" style="margin-right: 20px;">
+  <img src="[(https://reactnative.dev/docs/assets/favicon.png)](https://seeklogo.com/images/R/react-native-logo-221C671C70-seeklogo.com.png)" alt="React Native Logo" width="100" height="100" style="margin-right: 20px;">
   <img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" alt="Custom Logo" width="100" height="100">
   <img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" alt="Custom Logo" width="100" height="100">
 </div>
