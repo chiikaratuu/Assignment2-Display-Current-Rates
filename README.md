@@ -3,6 +3,7 @@
   <img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" alt="Custom Logo" width="100" height="100">
   <img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" alt="Custom Logo" width="100" height="100">
 </div>
+
 # Assignment2-Display-Current-Rates
 This project made by Chika Ratu Mentari RCTN-KS09-07
 ## Description Project
